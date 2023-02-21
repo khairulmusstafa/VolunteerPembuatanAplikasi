@@ -6,3 +6,4 @@ Repo ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikas
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Khairul Mustafa, [Milkshake](https://msha.ke/khairulmusstafa).
